@@ -1,0 +1,11 @@
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\bin\Debug\NDGAntiVirusProgram.exe.config
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\bin\Debug\NDGAntiVirusProgram.exe
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\bin\Debug\NDGAntiVirusProgram.pdb
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\bin\Debug\NDGAntiVirusProgram.xml
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.vbprojResolveAssemblyReference.cache
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.form1.resources
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.Resources.resources
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.vbproj.GenerateResource.Cache
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.exe
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.xml
+c:\users\pojat\documents\visual studio 2015\Projects\NDGAntiVirusProgram\NDGAntiVirusProgram\obj\Debug\NDGAntiVirusProgram.pdb
